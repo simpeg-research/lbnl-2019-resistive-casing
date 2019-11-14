@@ -10,6 +10,7 @@ dependencies:
   - scipy
   - matplotlib
   - ipywidgets
+  - jupyterlab>=1.1.0
   - mkl
   - geoana==0.0.5
   - pymatsolver==0.1.2
